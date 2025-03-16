@@ -1,7 +1,7 @@
 # about me
 
 <a href="https://github.com/ko-k1?tab=repositories">
-  <img src="https://github.com/ko-k1/ko-k1/blob/main/src/ks-koki.svg" alt="ks" width="650" height="500">
+  <img src="https://github.com/kx-ki/kx-ki/blob/main/src/ks-koki.svg" alt="ks" width="650" height="500">
 </a>
 
 ## koki
