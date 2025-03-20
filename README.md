@@ -40,4 +40,4 @@
 
 >Contact me
 
-[![Discord](https://img.shields.io/badge/Discord-7289da)](https://discordapp.com/users/kok1_) [![Telegram](https://img.shields.io/badge/Telegram-2AABEE)](https://t.me/kxk1e)
+[![Discord](https://img.shields.io/badge/Discord-7289da)](https://discordapp.com/users/881205213145464853) [![Telegram](https://img.shields.io/badge/Telegram-2AABEE)](https://t.me/kxk1e)
